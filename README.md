@@ -21,7 +21,7 @@ Hibernate is used to connect  with the mysql database.
 5. The data is updated successfully.
  ![Screenshot (60)](https://user-images.githubusercontent.com/116376624/219873038-8a428e9e-b181-4d11-a267-8613713f840e.png)
 
-6. The data employee is view after clicking the view button.
+6. The data of employee is view after clicking the view button.
 ![Screenshot (61)](https://user-images.githubusercontent.com/116376624/219873185-d34670f4-8ad6-458f-be56-cc4ad4a2f101.png)
 
 7. the data is deleted successfully.
