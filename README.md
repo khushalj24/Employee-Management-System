@@ -3,6 +3,7 @@ EMPLOYEE MANAGEMENT SYSTEM
 Employee Management System is a full stack web application which uses Angular framework as a frontend and Springboot as a backend.
 Angular 12 is used as a frontend for this project.
 For storing data Mysql database is used.
+Bootstrap 4 is used for styling.
 Restful services are made to perform CRUD operations.
 Hibernate is used to connect  with the mysql database.
 
